@@ -14,7 +14,7 @@
 
     No momento, estou aprendendo mais sobre design e ferramentas de DevOps.
     
-    Sou basteante curioso, estou sempre construindo e buscando inovasões.
+    Sou basteante curioso, estou sempre construindo e buscando inovações.
 
     Às vezes quebro coisas apenas para aprender - "O erro é seu maior porfessor".
 ---

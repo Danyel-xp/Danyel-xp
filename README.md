@@ -22,7 +22,7 @@
 ## 🛠️ Minhas Ferramentas De Desenvolvimento
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,figma,cs,py,linux,git,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma,py,linux,git" />
 </div>
 
 <br>

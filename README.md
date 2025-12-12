@@ -16,7 +16,6 @@
     
     Sou basteante curioso, estou sempre construindo e buscando inovações.
 
-    Às vezes quebro coisas apenas para aprender - "O erro é seu maior porfessor".
 ---
 
 ## 🛠️ Minhas Ferramentas De Desenvolvimento

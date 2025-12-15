@@ -38,6 +38,8 @@
     />
 </p>
 
+<img src="https://raw.githubusercontent.com/Danyel-xp/Danyel-xp/output/snake.svg" alt="Snake animation" />
+
 ---
 
 > 🧠 *"Construa, quebre, aprenda e evolua. Esse é o ciclo de um verdadeiro desenvolvedor."* — Daniel

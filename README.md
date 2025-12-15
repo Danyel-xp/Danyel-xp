@@ -4,7 +4,7 @@
 <img align="center" src="https://readme-typing-svg.demolab.com?font=Rubik+Doodle+Shadow&size=30&letterSpacing=normal&pause=1000&center=true&vCenter=true&width=435&lines=Oi%2C+sou+o+Daniel.;+Desenvolvedor+Front-End.;Criando+com+inte%C3%A7%C3%A3o." alt="Typing SVG" />
 </p>
 
-
+---
 
 ## 🚀 Quem Sou
 
@@ -20,18 +20,25 @@
 
 ## 🛠️ Minhas Ferramentas De Desenvolvimento
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,figma,py,linux,git" />
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma,py,linux,git,nodejs,vscode" align="center"/> <br> <br>       <img src="./me/me.png" height="180" align="right" border-radius="10"/>
 </div>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
 ---
-
 ## 📊 Estatísticas
+
+
+
 <p>
     <img
-        src="https://github-readme-stats.vercel.app/api?username=Danyel-xp&show_icons=true&theme=tokyonight&inclue_all_commits=true&locale=pt-br" height="200" style="padding-right:10x;"
+        src="https://github-readme-stats.vercel.app/api?username=Danyel-xp&show_icons=true&theme=tokyonight&inclue_all_commits=true&locale=pt-br" height="200" style="padding-right:10;"
     />
     <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danyel-xp&theme=tokyonight&layout=compact&custom_tittle=Tecnologias&langs_count=7&locale=pt-br" height="200" align="top"

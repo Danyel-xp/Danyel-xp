@@ -4,7 +4,7 @@
 <img align="center" src="https://readme-typing-svg.demolab.com?font=Rubik+Doodle+Shadow&size=30&letterSpacing=normal&pause=1000&center=true&vCenter=true&width=435&lines=Oi%2C+sou+o+Daniel.;+Desenvolvedor+Front-End.;Criando+com+inte%C3%A7%C3%A3o." alt="Typing SVG" />
 </p>
 
----
+
 
 ## 🚀 Quem Sou
 

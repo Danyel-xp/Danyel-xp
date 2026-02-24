@@ -38,7 +38,7 @@
 
 <p>
     <img
-        src="https://github-readme-stats.vercel.app/api?username=Danyel-xp&show_icons=true&theme=radical&inclue_all_commits=true&locale=pt-br" height="200" style="padding-right:10;"
+        src="https://github-readme-stats.vercel.app/api?username=Danyel-xp&show_icons=true&theme=tokyonight&inclue_all_commits=true&locale=pt-br" height="200" style="padding-right:10;"
     />
     <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danyel-xp&theme=tokyonight&layout=compact&custom_tittle=Tecnologias&langs_count=7&locale=pt-br" height="200" align="top"

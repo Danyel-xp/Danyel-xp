@@ -37,6 +37,7 @@
 
 
 <p>
+  <img src ="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danyel-xp&theme=tokyonight)" />
     <img
         src="https://github-readme-stats.vercel.app/api?username=Danyel-xp&show_icons=true&theme=tokyonight&inclue_all_commits=true&locale=pt-br" height="200" style="padding-right:10;"
     />

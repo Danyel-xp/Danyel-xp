@@ -21,8 +21,8 @@
 ## 🛠️ Minhas Ferramentas De Desenvolvimento
 
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,figma,py,windows,linux,debian" align="center"/> <br> <br>
-   <img src="https://skillicons.dev/icons?i=git,github,nodejs,vscode,cs,mysql,visualstudio" align="center" /><br>       <img src="./me/me.png" height="180" align="right" border-radius="10"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,dotnet,cs,mysql,py,git,github," align="center"/> <br> <br>
+   <img src="https://skillicons.dev/icons?i=npm,linux,debian,arch,vim,neovim,windows,vscode,visualstudio,figma,gimp" align="center" /> <br> <br>      <img src="./me/me.png" height="180" align="right" border-radius="10"/>
 </div>
 <br>
 <br>

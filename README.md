@@ -1,7 +1,7 @@
 <!--banner-->
 
 <p align="center">
-<img align="center" src="https://readme-typing-svg.demolab.com?font=Rubik+Doodle+Shadow&size=30&letterSpacing=normal&pause=1000&center=true&vCenter=true&width=435&lines=Oi%2C+sou+o+Daniel.;+Desenvolvedor+Front-End.;Criando+com+inte%C3%A7%C3%A3o." alt="Typing SVG" />
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Rubik+Doodle+Shadow&size=30&letterSpacing=normal&pause=1000&center=true&vCenter=true&width=435&lines=Oi%2C+sou+o+Daniel.;+Desenvo[...]
 </p>
 
 ---
@@ -40,14 +40,17 @@
 <p>
   <img src ="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danyel-xp&theme=tokyonight)" />
     <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Danyel-xp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400" height="200" style="padding-right:10;"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Danyel-xp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400" height="200" style[...]
     />
     <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Danyel-xp&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400" height="200" align="top"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Danyel-xp&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400" height=[...]
     />
 </p>
 
-###
+<br>
+<br>
+<br>
+<br>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Danyel-xp/Danyel-xp/output/pacman-contribution-graph-dark.svg">
@@ -55,7 +58,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Danyel-xp/Danyel-xp/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 ---
 
 > 🧠 *"Construa, quebre, aprenda e evolua. Esse é o ciclo de um verdadeiro desenvolvedor."* — Daniel

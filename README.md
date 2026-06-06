@@ -36,9 +36,9 @@
 ## 📊 Estatísticas
 
 <p>
-  <img src ="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danyel-xp&theme=tokyonight)" />
     <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Danyel-xp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400" height="200" style="padding-right:10;"
+      width ="48%"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Danyel-xp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400" height="200"
     />
     <img
         src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Danyel-xp&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400" height="200" align="top"

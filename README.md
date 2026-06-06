@@ -21,8 +21,8 @@
 ## 🛠️ Minhas Ferramentas De Desenvolvimento
 
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,dotnet,cs,mysql,py,git,github," align="center"/> <br> <br>
-   <img src="https://skillicons.dev/icons?i=npm,linux,debian,arch,vim,neovim,windows,vscode,visualstudio,figma,gimp" align="center" /> <br> <br>      <img src="./me/me.png" height="180" align="right" border-radius="10"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,py," align="center"/> <br> <br>
+   <img src="https://skillicons.dev/icons?i=sqlite,git,github,linux,debian,figma" align="center" /> <br> <br>      <img src="./me/me.png" height="180" align="right" border-radius="10"/>
 </div>
 <br>
 <br>
@@ -40,10 +40,10 @@
 <p>
   <img src ="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danyel-xp&theme=tokyonight)" />
     <img
-        src="https://github-readme-stats.vercel.app/api?username=Danyel-xp&show_icons=true&theme=tokyonight&inclue_all_commits=true&locale=pt-br" height="200" style="padding-right:10;"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Danyel-xp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400" height="200" style="padding-right:10;"
     />
     <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danyel-xp&theme=tokyonight&layout=compact&custom_tittle=Tecnologias&langs_count=7&locale=pt-br" height="200" align="top"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Danyel-xp&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400" height="200" align="top"
     />
 </p>
 
@@ -65,4 +65,6 @@
 <p align="center">
   <a href="mailto: danyellrodrigues023@gmail.com" ><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a> 
   <a href="https://github.com/Danyel-xp"><img src="https://img.shields.io/badge/-Portfolio-24292E?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://wa.me/5586981888397" target = "_blank"><img src="https://img.shields.io/badge/-WhatsApp-24292E?style=flat-square&logo=whatsapp&logoColor=green"/></a>
+  
 </p>

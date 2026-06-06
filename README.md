@@ -29,10 +29,7 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 
----
 ## 📊 Estatísticas
 
 <p>

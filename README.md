@@ -54,12 +54,11 @@
 </picture>
 
 ###
----
 
-> 🧠 *"Construa, quebre, aprenda e evolua. Esse é o ciclo de um verdadeiro desenvolvedor."* — Daniel
-> 
->---
-> 
+>🧠 *"Construa, quebre, aprenda e evolua. Esse é o ciclo de um verdadeiro desenvolvedor."* — Daniel
+<br>
+<br>
+
 <p align="center">
   <a href="mailto: danyellrodrigues023@gmail.com" ><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a> 
   <a href="https://github.com/Danyel-xp"><img src="https://img.shields.io/badge/-Portfolio-24292E?style=flat-square&logo=github&logoColor=white"/></a>

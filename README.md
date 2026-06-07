@@ -41,7 +41,7 @@
         src="https://github-readme-stats-sigma-five.vercel.app/api?username=Danyel-xp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400" height="200"
     />
     <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Danyel-xp&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400" height="200" align="top"
+       width = "48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Danyel-xp&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400" height="200" align="top"
     />
 </p>
 

@@ -21,8 +21,8 @@
 ## 🛠️ Minhas Ferramentas De Desenvolvimento
 
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,py," align="center"/> <br> <br>
-   <img src="https://skillicons.dev/icons?i=sqlite,git,github,linux,debian,figma" align="center" /> <br> <br>      <img src="./me/me.png" height="180" align="right" border-radius="10"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,c,lua,py," align="center"/> <br> <br>
+   <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,linux,arch,figma" align="center" /> <br><img src="./me/me.png" height="180" align="right" border-radius="10" />
 </div>
 <br>
 <br>
@@ -38,10 +38,10 @@
 <p>
     <img
       width ="48%"
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Danyel-xp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400" height="200"
+        src="https://github-stats-extended.vercel.app/api?username=Danyel-xp&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&cache_seconds=86400&hide_border=true" height=""
     />
     <img
-       width = "48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Danyel-xp&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400" height="200" align="top"
+       width = "47%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Danyel-xp&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400&theme=tokyonight&hide_border=true" height="" align=""
     />
 </p>
 
@@ -63,5 +63,6 @@
   <a href="mailto: danyellrodrigues023@gmail.com" ><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a> 
   <a href="https://github.com/Danyel-xp"><img src="https://img.shields.io/badge/-Portfolio-24292E?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="https://wa.me/5586981888397" target = "_blank"><img src="https://img.shields.io/badge/-WhatsApp-24292E?style=flat-square&logo=whatsapp&logoColor=green"/></a>
+    <a href="https://www.linkedin.com/in/danyelrodrigues/" ><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
   
 </p>

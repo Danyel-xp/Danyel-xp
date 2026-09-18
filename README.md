@@ -41,7 +41,7 @@
         src="https://github-stats-extended.vercel.app/api?username=Danyel-xp&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&cache_seconds=86400&hide_border=true" height=""
     />
     <img
-       width = "47%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Danyel-xp&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400&theme=tokyonight&hide_border=true" height="" align=""
+       width = "43%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Danyel-xp&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400&theme=tokyonight&hide_border=true" height="" align=""
     />
 </p>
 

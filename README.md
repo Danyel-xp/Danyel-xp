@@ -43,17 +43,19 @@ Ao longo desse caminho, venho explorando diferentes linguagens, ferramentas e á
 
 ### Meu Ambiente
 
-![Enverioment](https://go-skill-icons.vercel.app/api/icons?i=arch,debian,neovim,hyprland,catppuccin,brave&theme=dark)
+![Enverioment](https://skill-icons-v2.vercel.app/api/icons?i=arch,debian,neovim,hyprland,catppuccin,brave&theme=dark)&nbsp;
+<img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/catppuccin-auto.svg" height="47" alt="Catppuccin"/>
 
 ### Linguagens
-![Enverioment](https://go-skill-icons.vercel.app/api/icons?i=typescript,javascript,html,css,c,mysql,sqlite,lua,python,bash&theme=dark&perline=5)
+![Enverioment](https://skill-icons-v2.vercel.app/api/icons?i=typescript,javascript,html,css,c&theme=dark) <br>
+![Enverioment](https://skill-icons-v2.vercel.app/api/icons?i=mysql,sqlite,lua,python,bash&theme=dark)
 
 ### Frameworks
-![Enverioment](https://go-skill-icons.vercel.app/api/icons?i=react,nodejs,express,bootstrap&theme=dark)
+![Enverioment](https://skill-icons-v2.vercel.app/api/icons?i=react,nodejs,expressjs,bootstrap&theme=dark)
 
 
 ### Ferramentas
-![Enverioment](https://go-skill-icons.vercel.app/api/icons?i=discord,figma,photoshop,git,github,npm,gimp&theme=dark)
+![Enverioment](https://skill-icons-v2.vercel.app/api/icons?i=discord,figma,photoshop,git,github,npm,gimp&theme=dark)
 
 
 <br>

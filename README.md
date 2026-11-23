@@ -70,7 +70,7 @@ Ao longo desse caminho, venho explorando diferentes linguagens, ferramentas e á
         <img width="100%" src="https://github-stats-extended.vercel.app/api/?username=Danyel-xp&show_icons=true&theme=vue-dark&rank_icon=github&include_all_commits=true&custom_title=Danyel-xp&disable_animations=true&number_format=long&locale=pt-br" />
       </td>
       <td align="center" style="border:none;padding:0 8px;">
-        <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs?username=Danyel-xp&layout=compact&theme=vue-dark&custom_title=Linguagens+mais+usadas&langs_count=20" />
+        <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs?username=Danyel-xp&layout=compact&theme=vue-dark&custom_title=Linguagens+mais+usadas&langs_count=10" />
       </td>
     </tr>
   </table>
